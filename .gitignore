@@ -8,3 +8,4 @@
 /code-template/target/
 /itheima-rabbitmq-delay-queue/target/
 /itheima-springboot-thymeleaf/target/
+./.idea
