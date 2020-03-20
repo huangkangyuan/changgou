@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=E:\starter-canal-0.0.1-SNAPSHOT.jar -DgroupId=com.xpand -DartifactId=starter-canal -Dversion=0.0.1-SNAPSHOT -Dpackaging=jar
