@@ -1,0 +1,10 @@
+# Project exclude paths
+/changgou-parent/changgou-common/target/
+/changgou-parent/changgou-eureka/target/
+/changgou-parent/changgou-service/changgou-service-pay/target/
+/changgou-parent/changgou-service/changgou-service-seckill/target/
+/changgou-parent/changgou-service-api/changgou-service-seckill-api/target/
+/changgou-parent/changgou-user-oauth/target/
+/code-template/target/
+/itheima-rabbitmq-delay-queue/target/
+/itheima-springboot-thymeleaf/target/
